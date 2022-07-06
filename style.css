@@ -78,3 +78,19 @@ body {
     border-radius: 7px;
     margin-right: 10px;
 }
+
+input {
+    font-size: 20px;
+    border: 0;
+}
+
+.amount_input {
+    margin-top: 80px;
+    text-align: center;
+}
+
+hr {
+    width: 800px;
+    margin-bottom: 40px;
+
+}
