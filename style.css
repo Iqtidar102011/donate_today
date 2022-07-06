@@ -73,6 +73,7 @@ body {
 .two_hundred {
     background-color: pink;
     padding: 20px 40px;
+    border: 3px solid orangered;
     font-size: 25px;
     font-weight: bold;
     border-radius: 7px;
