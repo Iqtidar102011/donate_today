@@ -130,3 +130,34 @@ hr {
     padding-left: 10%;
     padding-right: 10%;
 }
+
+#write_me {
+    background-color: darkgray;
+    padding: 20px 40px;
+    border-radius: 7px;
+    margin-right: 2px;
+    justify-content: center;
+
+}
+
+#subscribe_me {
+    background-color: orangered;
+    padding: 20px 40px;
+    border-radius: 7px;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.get_updates {
+    background-color: bisque;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    display: flex;
+}
