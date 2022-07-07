@@ -131,6 +131,10 @@ hr {
     padding-right: 10%;
 }
 
+#video {
+    margin-left: 650px;
+}
+
 #write_me {
     background-color: darkgray;
     padding: 20px 40px;
